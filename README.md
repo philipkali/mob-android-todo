@@ -1,1 +1,1 @@
-# mob-android-todo
+# An android todo list app
